@@ -5,5 +5,5 @@ package com.atguigu.cms.dao;
  * @date
  */
 public class test01 {
-    //ggga'a'aaaaaaa
+    //ggga'a'aaaaaaa种子
 }
